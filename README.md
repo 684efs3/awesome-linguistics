@@ -58,6 +58,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Resources
 * [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
+* [Name Awesome](https://nameawesome.com/) - U.S. given-name frequencies from Social Security records (1880-2025) with sourced name etymologies and spelling variants.
 
 ### Deep learning models and transformers
 
